@@ -1,1 +1,61 @@
+h1 {
+text-align: right;
+}
+
+h2 {
+text-align: left;
+}
+
+body,
+html {
+margin:0;
+padding:0;
+color:#000;
+background-color:#336633;
+}
+
+#wrap {
+width:750px;
+margin:0 auto;
+background:#CCCC66;
+
+#header {
+background:#CCCC66;
+}
+
+#nav {
+background:#339900;
+}
+
+#content {
+background:#669966;
+float:left;
+width:500px;
+  
+}
+
+#sidebar {
+background:#CCCC66;
+float:right;
+width:150px;
+
+#sidebar {
+float:right;
+width:150px;
+background:#CCCC66;
+}
+
+#footer {
+background:#339900;
+
+#nav ul {
+margin:0;
+padding:0;
+list-style:none;
+}
+#nav li {
+display:inline;
+margin:0;
+padding:0;
+}
 
