@@ -1,1 +1,26 @@
+h1, h2, h3 {
+      color: #655100;
+    text-align: center;
+    text-shadow: 1px;
+    }
+p {
+    color: #004646;
+    width: 500px;
+    margin-bottom: 1.3em;
+    margin: 0 auto 1.3em;
+}
 
+body {
+        margin: 0;
+        padding: 0;
+        font-family: arial, helvetica, sans-serif;
+        background-color: #EEEEEE;
+        line-height:1.45;
+        word-spacing: 3px;
+        }
+a:link {
+    color: #1c4f7c;
+}
+a:visited {
+    color: #7f1c5e;
+}
