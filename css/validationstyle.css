@@ -33,3 +33,10 @@ table, tr, td, th {
     color: black;
     font-family: "Times New Roman";
 }
+
+p { 
+     color: #004646; 
+     width: 500px; 
+    margin-bottom: 1.3em; 
+    margin: 0 auto 1.3em; 
+}
