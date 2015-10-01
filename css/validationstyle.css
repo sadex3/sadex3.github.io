@@ -39,3 +39,11 @@ p {
     margin-bottom: 1.3em; 
     margin: 0 auto 1.3em; 
 }
+
+a:link { 
+    color: #1c4f7c; 
+ } 
+ 
+ a:visited { 
+     color: #7f1c5e; 
+ } 
