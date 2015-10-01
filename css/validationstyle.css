@@ -1,0 +1,35 @@
+h1, h2, h3 {
+      color: #005b5b;
+      text-align: center; 
+      text-shadow: 1px; 
+
+}
+
+
+body {
+    background: #FAF9FA;
+    color: blue;
+    font-size: 15px;
+    width: 750px;
+    margin: 0 auto;
+    line-height:1.45;
+    padding: 20px
+     
+}
+
+table, tr, td, th {
+  border-collapse: collapse;
+  border-style: solid;
+  border-width: 2px;
+  color: black
+}
+
+.bacon-info {
+    background: #005d74;
+    color: white;
+}
+
+.bacon-answer {
+    color: black;
+    font-family: "Times New Roman";
+}
