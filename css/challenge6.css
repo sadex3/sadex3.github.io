@@ -25,7 +25,7 @@ nav ul li {
 }
 
 .content{
-    width: 75%
+    width: 75%;
     float: left;
     background:#88cc88;
 }
@@ -77,4 +77,3 @@ nav ul li {
    .footer ul li{
        list-style-type: none;
    } 
-
