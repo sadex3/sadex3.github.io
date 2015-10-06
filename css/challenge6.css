@@ -63,6 +63,7 @@ nav ul li {
 
 .section {
     width: 30%;
+    margin-left: 3%;
     float: left;
     background:#88cc88;
 }
