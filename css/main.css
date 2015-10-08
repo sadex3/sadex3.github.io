@@ -1,0 +1,17 @@
+@media (max-width:600px) {
+  .mets {
+      background:red;
+  }
+}
+
+@media (min-width:400px) {
+  .container{
+      background:green;
+  }
+}
+
+@media (max-width:800px) {
+  .main-content{
+      background:yellow;
+  }
+}
